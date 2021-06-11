@@ -1,0 +1,38 @@
+
+/* Home Section  */
+
+#home p {
+    font-size: 20px;
+}
+.h-primary {
+    font-size: 30px;
+}
+
+#home::before {
+    top: -195px;
+}
+
+/* Services Section  */
+
+
+
+#services .box p {
+    text-align:unset;
+}
+#services {
+    margin-left: 90px;
+}
+#services .box {
+    margin: 5px 19px;
+}
+/* Client Section  */
+
+#client-section {
+    overflow: hidden;
+}
+
+/* Contact Section  */
+
+#contact-section {
+    overflow: hidden;
+}
